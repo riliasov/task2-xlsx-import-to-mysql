@@ -24,5 +24,6 @@
 - .env (образец переменных окружения)
 
 ## Установка
-Установите зависимости: pip install -r requirements.txt
-Настройте переменные окружения в файле .env: user & password
+1. Установите зависимости: pip install -r requirements.txt
+2. Настройте переменные окружения в файле .env: user & password
+3. Запустите скрипт: python task2.py
