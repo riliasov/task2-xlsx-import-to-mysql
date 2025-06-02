@@ -22,3 +22,7 @@
 - task2.py (скрипт)
 - requirements.txt (pandas, mysql-connector-python, openpyxl, python-dotenv)
 - .env (образец переменных окружения)
+
+## Установка
+Установите зависимости: pip install -r requirements.txt
+Настройте переменные окружения в файле .env: user & password
